@@ -5,7 +5,7 @@ using System.Numerics;
 using System.Collections;
 using System.ComponentModel;
 
-namespace Lab2
+namespace Lab3
 {
     //------------------>V2Data<---------------------
     abstract class V2Data: INotifyPropertyChanged

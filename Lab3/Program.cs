@@ -3,7 +3,7 @@ using System.Numerics;
 using System.Collections.Generic;
 using System.Collections;
 
-namespace Lab2
+namespace Lab3
 {
     class Program
     {

@@ -1,9 +1,0 @@
-C:\Users\Vera\source\repos\Lab2\bin\Release\Lab2.exe.config
-C:\Users\Vera\source\repos\Lab2\bin\Release\Lab2.exe
-C:\Users\Vera\source\repos\Lab2\bin\Release\Lab2.pdb
-C:\Users\Vera\source\repos\Lab2\bin\Release\System.Numerics.Vectors.dll
-C:\Users\Vera\source\repos\Lab2\obj\Release\Lab2.csprojAssemblyReference.cache
-C:\Users\Vera\source\repos\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
-C:\Users\Vera\source\repos\Lab2\obj\Release\Lab2.csproj.CopyComplete
-C:\Users\Vera\source\repos\Lab2\obj\Release\Lab2.exe
-C:\Users\Vera\source\repos\Lab2\obj\Release\Lab2.pdb

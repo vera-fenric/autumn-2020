@@ -6,7 +6,7 @@ using System.Collections;
 using System.IO;
 using System.Globalization;
 
-namespace Lab2
+namespace Lab3
 {
     //------------------>V2DataCollection<---------------------
     class V2DataCollection : V2Data, IEnumerable<DataItem>

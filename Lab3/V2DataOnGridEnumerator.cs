@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Numerics;
 using System.Collections;
 
-namespace Lab2
+namespace Lab3
 {
     class V2DataOnGridEnumerator: IEnumerator<DataItem>
     {

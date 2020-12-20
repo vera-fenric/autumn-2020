@@ -4,7 +4,7 @@ using System.Text;
 using System.Numerics;
 using System.Collections;
 
-namespace Lab2
+namespace Lab3
 {
     //------------------>Grid1D<---------------------
     struct Grid1D

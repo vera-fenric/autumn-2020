@@ -6,7 +6,7 @@ using System.Collections;
 using System.Linq;
 using System.ComponentModel;
 
-namespace Lab2
+namespace Lab3
 {
     //------------------>V2MainCollection<---------------------
     class V2MainCollection : IEnumerable<V2Data>

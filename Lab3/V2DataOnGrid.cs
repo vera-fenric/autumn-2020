@@ -4,7 +4,7 @@ using System.Text;
 using System.Numerics;
 using System.Collections;
 
-namespace Lab2
+namespace Lab3
 {
     //------------------>V2DataOnGrid<---------------------
     class V2DataOnGrid : V2Data, IEnumerable<DataItem>
