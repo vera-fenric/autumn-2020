@@ -1,0 +1,7 @@
+C:\Users\Vera\source\repos\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Vera\source\repos\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Vera\source\repos\Lab3\bin\Debug\Lab3.exe
+C:\Users\Vera\source\repos\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Vera\source\repos\Lab3\obj\Debug\Lab3.exe
+C:\Users\Vera\source\repos\Lab3\obj\Debug\Lab3.pdb
